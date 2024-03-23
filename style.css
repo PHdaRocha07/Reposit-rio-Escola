@@ -1,4 +1,12 @@
-header {
+.cabecalho {
     background-color: #000;
-    color: white
+    color: white;
+    display: flex;
+    justify-content: space-around;
 }
+
+.cabecalho-imagem{ 
+    width: 50%;
+}
+
+.cabecalho-lista-item
